@@ -1,0 +1,63 @@
+
+p {
+   font-family: 宋体;
+   text-indent: 2em;
+}
+h2 {
+   text-align: center;
+   color: white;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+p.c1{background-color:steelblue;}
+p.c2{background-color:steelblue;}
+p.c3{background-color:steelblue;}
+p.c4{background-color:steelblue;}
+/* body {
+   background-image: url(R-C.jfif);
+   background-size: 100%;
+   background-repeat: no-repeat;
+   background-color: #fbfbfb;
+} */
+div.mulu {
+    display: block;
+    background-color:steelblue;
+    height: 30px;
+    width: 100%;
+}
+div.mulu span {
+    text-decoration: none;
+    padding: 50px;
+    color: white;
+    height: 50px;
+}
+div.mulu span :hover{
+    background-color:navy ;
+    height: 30px;
+}
+div.mulu span a {
+    text-decoration: none;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 1px;
+    padding-bottom: 9px;
+    color:white;
+}
+div.zl span a {
+    color:steelblue;
+    text-decoration: none;
+}
+div.tu span a {
+    color:steelblue;
+    text-decoration: none;
+}
+div.zi span a {
+    color:steelblue;
+    text-decoration: none;
+}
+a.x {
+    color:steelblue;
+    text-decoration: none;
+}
